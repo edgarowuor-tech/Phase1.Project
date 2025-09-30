@@ -5,7 +5,7 @@ This project analyzes aviation accident data to identify trends, high-risk phase
 
 ## Dataset
 - **Source:** AviationData.csv  
-- **Key Columns:** Event_Date, Country, Broad_Phase_Of_Flight, Weather_Condition, Make, Total_Fatal_Injuries.  
+- **Key Columns:** Event Date, Country, Broad Phase Of Flight, Weather Condition, Make, Total Fatal Injuries.  
 
 ## Objectives
 - Understand accident trends over time.  
