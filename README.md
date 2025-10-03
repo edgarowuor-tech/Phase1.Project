@@ -8,6 +8,10 @@ The analysis leverages Python (Pandas, Seaborn, Matplotlib) to visualize acciden
 
 ---
 
+KAGGLE DATASET LINK https://www.kaggle.com/datasets/yassereleraky/aviation-accident-ntsb/data?select=AviationData.csv
+
+TABLEAU LINK:https://public.tableau.com/app/profile/edgar.james/viz/AviationDataAnalysisProject/AVIATIONANALYSISDASHBOARD
+
 ## 🎯 Objectives
 The primary goals of this project are:
 1. **Trend Analysis** – Track aviation accidents over time to evaluate improvements or risks.  
@@ -105,8 +109,7 @@ Aviation-Accident-Analysis/
 │── AviationData.csv         # Dataset
 │── README.md                # Project documentation
 
-KAGGLE DATASET https://www.kaggle.com/datasets/yassereleraky/aviation-accident-ntsb/data?select=AviationData.csv
-TABLEAU LINK:https://public.tableau.com/app/profile/edgar.james/viz/AviationDataAnalysisProject/AVIATIONANALYSISDASHBOARD
+
 ✍️ Author
 
 Edgar Owuor
