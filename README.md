@@ -47,12 +47,10 @@ This project uses **Python 3.8+** with the following libraries:
 pip install pandas seaborn matplotlib
 pandas → Data cleaning & analysis
 
-seaborn → Advanced statistical visualizations
 
 matplotlib → Plot customization and charts
 
 ⚙️ Methodology
-The project follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) workflow:
 
 Business Understanding
 
@@ -78,8 +76,6 @@ Analysis & Visualization
 
 Accident counts by year, country, weather, and flight phase.
 
-Fatal vs non-fatal accident distributions.
-
 Manufacturer-level accident statistics.
 
 Insights & Recommendations
@@ -91,8 +87,6 @@ Summarize findings and propose improvements.
 Accident frequency has declined over recent decades, indicating improved safety.
 
 Landing and Takeoff phases show the highest number of accidents.
-
-Weather conditions such as fog, storms, and rain contribute significantly to accidents.
 
 A handful of manufacturers dominate accident records, largely because they produce the most aircraft
 
